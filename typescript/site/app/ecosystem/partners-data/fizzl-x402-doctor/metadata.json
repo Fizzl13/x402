@@ -1,0 +1,7 @@
+{
+  "name": "x402 Doctor",
+  "description": "Checks x402 endpoints the way a paying agent would. Free diagnosis page for builders: challenge, accepts[], settlement, Bazaar and OpenAPI discovery, each with a fix hint. For agents: a $0.001 pre-payment check (GO / CAUTION / NO-GO) before paying an unknown endpoint, and a $0.05 fix that returns corrected config. Base or Solana.",
+  "logoUrl": "/logos/fizzl.png",
+  "websiteUrl": "https://x402-doctor.onrender.com",
+  "category": "Infrastructure & Tooling"
+}

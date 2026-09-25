@@ -1,0 +1,7 @@
+{
+  "name": "Ichimoku Signal",
+  "description": "Crypto trading signals for AI agents, paid per call with x402 in USDC on Base or Solana. The Ichimoku Cloud signal for any top-200 coin on any timeframe ($0.02), a six-indicator confluence vote ($0.10), price levels with a long/short plan ($0.05), and a market scan of 148 coins in one call ($0.25). Also an MCP server with the same tools. No accounts, no API keys.",
+  "logoUrl": "/logos/fizzl.png",
+  "websiteUrl": "https://ichimoku-signal.onrender.com",
+  "category": "Services/Endpoints"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "plugin-fizzl (ElizaOS)",
+  "description": "ElizaOS plugin that gives an agent 9 paid x402 tools: trading signals, a 148-coin market scan, price levels, wallet-approval risk checks, pre-sign checks and x402 endpoint checks. The agent pays each call itself in USDC on Solana or Base, with a per-payment cap. npm install plugin-fizzl.",
+  "logoUrl": "/logos/fizzl.png",
+  "websiteUrl": "https://www.npmjs.com/package/plugin-fizzl",
+  "category": "Client-Side Integrations"
+}
